@@ -4,7 +4,7 @@ This is a very simple dApps example which using Truffle, Solidity, Drizzle and R
 
 **_DEMO:_**
 
-<img src="./client/src/resource/200102ScreenShot.jpg" width="60%">
+<img src="./client/src/resource/200102ScreenShot.jpg">
 
 ## Environment
 
