@@ -1,6 +1,6 @@
 # dApp example with React and Drizzle
 
-This is a very simple dApps example which using Truffle, Solidity, Drizzle and React.
+This is a simple dApps example which using Truffle, Solidity, Drizzle and React.
 
 **_DEMO:_**
 
